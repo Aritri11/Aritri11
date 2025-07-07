@@ -20,4 +20,6 @@
 🌱 Always learning something new at the intersection of biology, computation, and design.
 
 😄 Pronouns: She/Her
+
+
 🧪 *Let’s connect and collaborate on innovative, impactful, and open-source solutions in biology + data science!*
