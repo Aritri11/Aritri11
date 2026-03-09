@@ -6,8 +6,8 @@
 
 💻 I work with a broad tech stack:
 - **Languages**: Python, R, JavaScript, HTML/CSS, SQL  
-- **Tools/Frameworks**: scikit-learn, pandas, seaborn, TensorFlow, ggplot2, Flask, Node.js  
-- **Technologies**: Cloud computing (AWS/GCP), REST APIs, databases (MySQL/PostgreSQL)
+- **Tools/Frameworks**: scikit-learn, pandas, seaborn, TensorFlow, ggplot2, Node.js, Pytorch, LangGraph, LangChain 
+- **Technologies**: Cloud computing (AWS/GCP), Fast APIs, databases (MySQL/PostgreSQL)
 
 🚀 My current focus:
 - Building intelligent tools for life sciences using **Machine Learning and Deep Learning**
