@@ -1,25 +1,26 @@
- 👋 Hi, I’m Aritri11
+👋 Hi, I'm Aritri11
 
-🎓 I’m currently pursuing an MSc in **Big Data Biology**, where I explore the powerful intersection of **biological science and data-driven technologies**.
+🎓 I hold an MSc in Big Data Biology from IBAB, Bangalore, and a BSc (Hons) in Biotechnology — my work sits at the intersection of biological science, data, and applied AI.
 
-🧬 My passion lies in **leveraging AI/ML for biological insight** — from genomic data analysis to predictive modeling of biological systems.
+🧬 I'm currently a Research Associate Intern at MetFlux Research, where I build AI frameworks connecting physiological systems to healthcare — including agents and chatbots for physiological systems and systems biology that query knowledge graphs to answer both quantitative and qualitative questions.
 
 💻 I work with a broad tech stack:
-- **Languages**: Python, R, JavaScript, HTML/CSS, SQL  
-- **Tools/Frameworks**: scikit-learn, pandas, seaborn, TensorFlow, ggplot2, Node.js, Pytorch, LangGraph, LangChain 
-- **Technologies**: Cloud computing (AWS/GCP), Fast APIs, databases (MySQL/PostgreSQL)
+
+* **Languages:** Python, R, JavaScript, HTML/CSS, SQL
+* **AI/ML & Agentic Frameworks:** LangChain, LangGraph, scikit-learn, PyTorch, Hugging Face Transformers, TensorFlow
+* **Data & Visualization:** pandas, seaborn, ggplot2, Neo4j (Cypher)
+* **Tools/Technologies:** Cloud computing (AWS/GCP), FastAPI, databases (MySQL/PostgreSQL), Node.js
 
 🚀 My current focus:
-- Building intelligent tools for life sciences using **Machine Learning and Deep Learning**
-- Developing interactive bioinformatics dashboards and visualization tools
-- Exploring **cloud-scale pipelines** for biological data processing
-  
-📫 Reach out: [aritribaidya2001@gmail.com] 
-🔗 Connect on [LinkedIn]( www.linkedin.com/in/aritri-baidya-7878bb2ab)
 
-🌱 Always learning something new at the intersection of biology, computation, and design.
+* Building agentic AI systems and knowledge-graph-based reasoning tools for biology and healthcare
+* Applying GenAI and LLMs (Llama 3.1, DeepSeek r1) to real-world biomedical problems — from drug repurposing to genomics
+* Developing interactive bioinformatics dashboards and visualization tools
+* Exploring cloud-scale pipelines for biological and clinical data processing
+
+📫 Reach out: [aritribaidya1111@gmail.com](mailto:aritribaidya1111@gmail.com)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/aritri-baidya-7878bb2ab)
 
 😄 Pronouns: She/Her
 
-
-🧪 *Let’s connect and collaborate on innovative, impactful, and open-source solutions in biology + data science!*
+🧪 Let's connect and collaborate on innovative, impactful, and open-source solutions in biology + data science!
